@@ -1,0 +1,112 @@
+digraph BST {
+23 [label=23,color=black];
+}
+digraph BST {
+23 [label=23,color=black];
+23 -> 84;
+84 [label=84,color=black];
+}
+digraph BST {
+23 [label=23,color=black];
+23 -> 84;
+84 [label=84,color=black];
+84 -> 98;
+98 [label=98,color=black];
+}
+digraph BST {
+23 [label=23,color=black];
+23 -> 84;
+84 [label=84,color=black];
+84 -> 38 ;
+84 -> 98;
+98 [label=98,color=black];
+38 [label=38,color=black];
+}
+digraph BST {
+23 [label=23,color=black];
+23 -> 2 ;
+23 -> 84;
+84 [label=84,color=black];
+84 -> 38 ;
+84 -> 98;
+98 [label=98,color=black];
+38 [label=38,color=black];
+2 [label=2,color=black];
+}
+digraph BST {
+23 [label=23,color=black];
+23 -> 2 ;
+23 -> 84;
+84 [label=84,color=black];
+84 -> 38 ;
+84 -> 98;
+98 [label=98,color=black];
+38 [label=38,color=black];
+38 -> 74;
+74 [label=74,color=black];
+2 [label=2,color=black];
+}
+digraph BST {
+23 [label=23,color=black];
+23 -> 2 ;
+23 -> 84;
+84 [label=84,color=black];
+84 -> 38 ;
+84 -> 98;
+98 [label=98,color=black];
+38 [label=38,color=black];
+38 -> 74;
+74 [label=74,color=black];
+2 [label=2,color=black];
+}
+digraph BST {
+23 [label=23,color=black];
+23 -> 2 ;
+23 -> 84;
+84 [label=84,color=black];
+84 -> 38 ;
+84 -> 98;
+98 [label=98,color=black];
+38 [label=38,color=black];
+38 -> 74;
+74 [label=74,color=black];
+74 -> 48 ;
+48 [label=48,color=black];
+2 [label=2,color=black];
+}
+digraph BST {
+23 [label=23,color=black];
+23 -> 2 ;
+23 -> 84;
+84 [label=84,color=black];
+84 -> 38 ;
+84 -> 98;
+98 [label=98,color=black];
+38 [label=38,color=black];
+38 -> 74;
+74 [label=74,color=black];
+74 -> 48 ;
+48 [label=48,color=black];
+48 -> 72;
+72 [label=72,color=black];
+2 [label=2,color=black];
+}
+digraph BST {
+23 [label=23,color=black];
+23 -> 2 ;
+23 -> 84;
+84 [label=84,color=black];
+84 -> 38 ;
+84 -> 98;
+98 [label=98,color=black];
+38 [label=38,color=black];
+38 -> 34 ;
+38 -> 74;
+74 [label=74,color=black];
+74 -> 48 ;
+48 [label=48,color=black];
+48 -> 72;
+72 [label=72,color=black];
+34 [label=34,color=black];
+2 [label=2,color=black];
+}

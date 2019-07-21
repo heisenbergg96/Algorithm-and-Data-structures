@@ -1,0 +1,105 @@
+digraph BST {
+383 [label=383,color=black];
+383 -> 886 ;
+383 -> 335;
+335 [label=335,color=black];
+886 [label=886,color=black];
+886 -> 777 ;
+886 -> 915;
+915 [label=915,color=black];
+777 [label=777,color=black];
+777 -> -72540026 ;
+777 -> 793;
+793 [label=793,color=black];
+-72540026 [label=-72540026,color=black];
+-72540026 -> 386;
+386 [label=386,color=black];
+386 -> 492;
+492 [label=492,color=black];
+492 -> 421 ;
+492 -> 649;
+649 [label=649,color=black];
+421 [label=421,color=black];
+}
+digraph BST {
+175 [label=175,color=black];
+175 -> 563 ;
+175 -> 84;
+84 [label=84,color=black];
+563 [label=563,color=black];
+563 -> 237 ;
+563 -> 830;
+830 [label=830,color=black];
+830 -> 721 ;
+721 [label=721,color=black];
+721 -> 791;
+791 [label=791,color=black];
+237 [label=237,color=black];
+237 -> -72540026 ;
+237 -> 473;
+473 [label=473,color=black];
+473 -> 262 ;
+262 [label=262,color=black];
+-72540026 [label=-72540026,color=black];
+-72540026 -> 234;
+234 [label=234,color=black];
+}
+digraph BST {
+16 [label=16,color=black];
+16 -> 43 ;
+16 -> 4;
+4 [label=4,color=black];
+43 [label=43,color=black];
+43 -> 24 ;
+43 -> 57;
+57 [label=57,color=black];
+57 -> 60;
+60 [label=60,color=black];
+60 -> 77;
+77 [label=77,color=black];
+24 [label=24,color=black];
+24 -> -72540026 ;
+24 -> 35;
+35 [label=35,color=black];
+35 -> 42;
+42 [label=42,color=black];
+-72540026 [label=-72540026,color=black];
+}
+digraph BST {
+13 [label=13,color=black];
+13 -> 29 ;
+29 [label=29,color=black];
+29 -> 95;
+95 [label=95,color=black];
+95 -> 34 ;
+95 -> 96;
+96 [label=96,color=black];
+34 [label=34,color=black];
+34 -> 32 ;
+34 -> 45;
+45 [label=45,color=black];
+45 -> 40 ;
+45 -> 85;
+85 [label=85,color=black];
+40 [label=40,color=black];
+32 [label=32,color=black];
+}
+digraph BST {
+23 [label=23,color=black];
+23 -> 84 ;
+23 -> 2;
+2 [label=2,color=black];
+84 [label=84,color=black];
+84 -> 98 ;
+84 -> 38;
+38 [label=38,color=black];
+38 -> 74 ;
+38 -> 34;
+34 [label=34,color=black];
+74 [label=74,color=black];
+74 -> 48;
+48 [label=48,color=black];
+48 -> 72 ;
+72 [label=72,color=black];
+98 [label=98,color=black];
+}
